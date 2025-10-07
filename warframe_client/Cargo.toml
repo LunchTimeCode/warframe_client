@@ -1,6 +1,6 @@
 [package]
 name = "warframe-client"
-version = "2.0.8"
+version = "3.0.0"
 authors = ["silen.locatelli@gmx.ch"]
 description = "Rust API client for Warframe game data from warframestat.us - worldstate, items, mods, weapons, and more"
 license = "MIT"
